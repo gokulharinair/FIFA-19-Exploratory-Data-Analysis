@@ -6,13 +6,13 @@
 ### FIFA 19 is a football simulation video game developed by EA Vancouver as part of Electronic Arts' FIFA series. It is the 26th installment in the FIFA series, and was released on 28 September 2018 for PlayStation 3, PlayStation 4, Xbox 360, Xbox One, Nintendo Switch, and Microsoft Windows.
 
 <div align="center">
-<img src="https://deepgamez.com/wp-content/uploads/2018/11/168462.jpg">
+<img src=https://deepgamez.com/wp-content/uploads/2018/11/168462.jpg>
 </div>
 
 ### As with FIFA 18, Cristiano Ronaldo featured as the cover athlete of the regular edition: however, following his unanticipated transfer from Spanish club Real Madrid to Italian side Juventus, new cover art was released. He also appeared with Neymar in the cover of the Champions edition. From February 2019, an updated version featured Neymar, Kevin De Bruyne and Paulo Dybala on the cover of the regular edition.
 
 <div align="center">
-<img src="https://https://img.redbull.com/images/c_crop,x_0,y_0,h_512,w_1536/c_fill,w_1920,h_662/q_auto,f_auto/redbullcom/2018/10/05/12532975-e9c3-46a7-9683-0686249883bd/fifa-19-chemistry-lead" >
+<img src=https://https://img.redbull.com/images/c_crop,x_0,y_0,h_512,w_1536/c_fill,w_1920,h_662/q_auto,f_auto/redbullcom/2018/10/05/12532975-e9c3-46a7-9683-0686249883bd/fifa-19-chemistry-lead>
 </div>
                                                                      
 ### The game features the UEFA club competitions for the first time, including the UEFA Champions League and UEFA Europa League and the UEFA Super Cup as well. Martin Tyler and Alan Smith return as regular commentators, while the new commentary team of Derek Rae and Lee Dixon feature in the UEFA competitions mode. Composer Hans Zimmer and rapper Vince Staples recorded a new remix of the UEFA Champions League anthem specifically for the game.
