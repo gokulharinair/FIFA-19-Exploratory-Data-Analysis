@@ -31,5 +31,7 @@
 ## A PEEK INTO SOME OF THE DATA ANALYSIS CARRIED OUT:
 
 ![download (1)](https://user-images.githubusercontent.com/54704799/88300403-11889500-cd21-11ea-8b43-27883ac2f478.png?style=centerme)
+
 ![download (2)](https://user-images.githubusercontent.com/54704799/88300705-6a582d80-cd21-11ea-93b1-43fc491ba24d.png)
+
 ![download (3)](https://user-images.githubusercontent.com/54704799/88300760-77751c80-cd21-11ea-9e63-e8c0f42d75d1.png)
