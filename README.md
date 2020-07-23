@@ -30,3 +30,4 @@
 
 ## A PEEK INTO SOME OF THE DATA ANALYSIS CARRIED OUT:
 
+![download (1)](https://user-images.githubusercontent.com/54704799/88300403-11889500-cd21-11ea-8b43-27883ac2f478.png?style=centerme)
